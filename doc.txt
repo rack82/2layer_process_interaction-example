@@ -1,0 +1,9 @@
+will be two main parts of the project
+First creating the index by
+going through the documents
+and second answering the search queries using
+the index we created
+Then we will also add ranking
+classification compression and duplicate detection mechanisms
+The subject of this essay is a crucial component of the economic
+mobilization which must be launched in the immediate
